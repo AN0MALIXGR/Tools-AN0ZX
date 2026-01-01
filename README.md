@@ -3,7 +3,7 @@
     installer by TERMUX
   $. git clone https://github.com/AN0MALIXGR/Tools-AN0ZX.git
   
-  $. cd Tools-AN0Z
+  $. cd Tools-AN0ZX
   
   $. chmod +x premium.sh
   
